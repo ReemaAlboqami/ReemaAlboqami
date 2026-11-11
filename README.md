@@ -6,6 +6,7 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logoColor=white" alt="MATLAB">
   <img src="https://img.shields.io/badge/Simulink-0076A8?style=flat-square&logoColor=white" alt="Simulink">
   <img src="https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C/C++">
@@ -20,6 +21,14 @@
 I work where hardware meets software, with a focus on embedded systems, control, and communication networks. My goal is a career in space technology.
 
 ## Featured projects
+
+### [Satellite Pass Predictor](https://github.com/ReemaAlboqami/satellite-pass-predictor)
+`Python` `SGP4` `Orbital Mechanics`
+
+Predicts when a satellite passes over any ground location, using live orbital data.
+- Pulls current TLEs from CelesTrak and propagates the orbit with SGP4
+- Converts positions to azimuth and elevation for the observer and plots each pass on a sky chart
+- Coordinate math checked against reference values with a test suite
 
 ### [Filtered PID Controller for a 3DOF Helicopter](https://github.com/ReemaAlboqami/3dof-helicopter-pid)
 `MATLAB` `Simulink` `Control Systems`
