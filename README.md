@@ -17,7 +17,7 @@
 
 ---
 
-I build systems where hardware meets software: controllers that hold a flight path, sensor nodes that report over the air, and wearables that react in real time. My goal is a career in space technology, and I pick projects that move me toward it.
+I work where hardware meets software, with a focus on embedded systems, control, and communication networks. My goal is a career in space technology.
 
 ## Featured projects
 
